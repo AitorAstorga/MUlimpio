@@ -37,7 +37,6 @@
     <a href="https://github.com/AitorAstorga/MUlimpio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://gitlab.com/m11137/mudamu">Original repo in GitLab</a>
   </p>
 </div>
 
